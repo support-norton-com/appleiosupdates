@@ -2,15 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 
 <head>
-	<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KL5B33LB60"></script>
+<!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-NW_pKdyiNyUFsvAezZaA3.js"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-KL5B33LB60');
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
 </script>
+
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE-edge,chrome=1">
 	<meta name="keywords" content="">
